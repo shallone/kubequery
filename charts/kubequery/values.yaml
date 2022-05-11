@@ -15,7 +15,7 @@ image:
   repository: uptycs/kubequery
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+  tag: "latest"
 
 # Cluster name
 cluster: mycluster
